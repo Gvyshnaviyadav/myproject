@@ -12,58 +12,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 <body>
-    <nav id="navbar">
-        <div id="logo">
-            <img src="images/logo.png" alt="LOGO">
-        </div>
-        <a href="vehicles.html">Home <span></span></a>
-        <a href="churches.html">Churches <span></span></a>
-        <a href="beaches.html">Beaches <span></span></a>
-        <a class="contact">Contact <span></span></a>
-        <a style="left:32%" href="signup.html">Signup<span></span></a>
-       
-        </nav><br><br>
-        <div class="div1">
-        <div class="div2">
-            <div style="font-size: 2.9em;font-family: 'Courier New', Courier, monospace;align-items: center;text-align: center;color: white;font-weight: 900;">CHOOSE VEHICLE TO RENT</div>
-            <span class="bikespan" id="bikespan">
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <h1 class="vehh1">BIKE</h1>
-                <p class="vehtext">Starting from Rs 500/per day</p>
-                <br><br>
-                <a href="bikes.html">
-                <span class="bookbtn"> &NonBreakingSpace; BOOK NOW &nbsp;</span></a>
-                <p>&nbsp;</p>
-            </span><br><br>
-            <span>
-                <img src="images/bike.png" class="bike" id="bike" onclick="bikemove()" >
-                </a>
-            </span>
-            <br>
-            <br>
-            <span>
-                <img src="images/car.png" class="car" id="car" onclick="carmove()">
-
-            </span>
-            <span class="carspan" id="carspan">
-                <h1 class="vehh1">CAR</h1>
-                <p class="vehtext">Starting from Rs 800/per day</p>
-                <br>
-                <br>
-                <a href="cars.html">
-                <span class="bookbtn"> &NonBreakingSpace; BOOK NOW &nbsp;</span></a>
-                <p>&nbsp;</p>
-            </span>
-            <br>
-            <br>
-            <div class="footer">
-                <h2>Contact Details</h2><br>
-                <p>Email: example@example.com</p>
-                <p>Phone: 123-456-7890</p>
-            </div>
-        </div>
-
-    </div>
     
-    <script src="js/vehicles.js"></script>
+        <a href="vehicles.html">project<span></span></a>
+       
+               
+            
+             
